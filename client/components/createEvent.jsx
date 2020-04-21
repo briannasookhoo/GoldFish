@@ -60,7 +60,7 @@ class createEvent extends Component {
         <h2>Add New Event</h2>
           <div>
             <div className="form-group">
-              <label>Name:</label>
+              <label>Event Name:</label>
               <div>
                 <input type="text"
                   className="form-control"
